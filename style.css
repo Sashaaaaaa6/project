@@ -1,0 +1,33 @@
+.container {
+  width: 1440px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+:root {
+  --bulka: #f4f0ec;
+  --gat: #4d5053;
+  --but: #292f36;
+  --dut: #ffffff;
+}
+.section1-ul {
+  display: flex;
+  list-style: none;
+}
+.section1 {
+  height: 675px;
+  left: 50%;
+  top: 50%;
+  background: #f4f0ec;
+  border-radius: 70px;
+  width: 1200px;
+  transform: translate(-50%, -50%);
+  position: absolute;
+}
+.section1-img {
+  width: 77px;
+  height: 77px;
+}
+.section1-h1 {
+  font-family: "DM serif display";
+  text-align: justify;
+}
