@@ -105,4 +105,11 @@
 .section3-ul {
   list-style: none;
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 61px 20px;
+}
+.aaa {
+  display: flex;
+  justify-content: space-between;
 }
