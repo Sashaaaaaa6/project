@@ -113,3 +113,10 @@
   display: flex;
   justify-content: space-between;
 }
+.section3-h4 {
+  font-family: "DM Serif display";
+}
+.section3-p2 {
+  font-family: "Jost";
+  color: #4d5053;
+}
