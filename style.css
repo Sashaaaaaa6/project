@@ -8,6 +8,8 @@
   --gat: #4d5053;
   --but: #292f36;
   --dut: #ffffff;
+  --tut: #cda274;
+  --kuk: #4d5053;
 }
 .section1-ul {
   display: flex;
@@ -119,4 +121,45 @@
 .section3-p2 {
   font-family: "Jost";
   color: #4d5053;
+}
+.section4 {
+  background-color: #f4f0ec;
+  padding-top: 140px;
+  padding-bottom: 140px;
+  margin-top: 140px;
+}
+.section4-ul {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+.section4-h4 {
+  font-size: 100px;
+  font-family: "dm serif display";
+  color: #cda274;
+}
+.section4-p {
+  font-family: "jost";
+  font-size: 20px;
+  width: 200px;
+}
+.section4-li:not(:last-child) {
+  border-right: 1px solid black;
+}
+.section5-h2 {
+  margin-top: 143px;
+  text-align: center;
+  margin-bottom: 21px;
+  font-size: 40px;
+  font-family: "dm serif display";
+}
+.section5-p {
+  font-family: "jost";
+  font-size: 23px;
+  width: 589px;
+  margin-left: 430px;
+  margin-bottom: 70px;
+}
+.section4-li:not(:first-child) {
+  margin-left: 128px;
 }
