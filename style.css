@@ -10,6 +10,7 @@
   --dut: #ffffff;
   --tut: #cda274;
   --kuk: #4d5053;
+  --aa: #e7e7e7;
 }
 .section1-ul {
   display: flex;
@@ -162,4 +163,27 @@
 }
 .section4-li:not(:first-child) {
   margin-left: 128px;
+}
+.section6-ul {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+}
+.section6-li {
+  width: 387px;
+  border-radius: 20px;
+  background-color: #e7e7e7;
+  margin-right: 20px;
+}
+.section6-img {
+  width: 344px;
+  margin-left: 21px;
+  margin-top: 21px;
+}
+.section6-ppp {
+  width: 125px;
+  border-radius: 20px;
+  background-color: #ffffff;
 }
