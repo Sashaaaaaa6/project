@@ -184,6 +184,16 @@
 }
 .section6-ppp {
   width: 125px;
-  border-radius: 20px;
+  border-radius: 5px;
+  padding-top: 11px;
+  padding-bottom: 11px;
   background-color: #ffffff;
+}
+.box {
+  position: relative;
+}
+.section6-ppp {
+  position: absolute;
+  bottom: 29px;
+  left: 25px;
 }
