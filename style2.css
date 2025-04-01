@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.container1 {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.head {
+  display: flex;
+  flex-direction: row;
+  font-family: "Jost", normal;
+}
+
+.head_1_logo {
+  margin-right: 484px;
+  margin-top: 26px;
+}
+
+.head_2 {
+  font-family: "Jost", normal;
+  color: #cda274;
+  margin-left: 484px;
+  margin-right: 40px;
+  margin-top: 12px;
+}
+
+.head_3 {
+  font-family: "Jost", normal;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 12px;
+}
+
+.head_4 {
+  font-family: "Jost", normal;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 12px;
+}
+
+.head_5 {
+  font-family: "Jost", normal;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 12px;
+}
+
+.head_6 {
+  font-family: "Jost", normal;
+  margin-left: 40px;
+  margin-right: 120px;
+  margin-top: 12px;
+}
+
+.second_section {
+  background-image: url("top_img.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 190px;
+  padding-bottom: 250px;
+}
+
+.sec_sec_1li {
+  font-family: "DM Serif Display", serif;
+  /* Let's Create Your Dream Interior */
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 80px;
+  line-height: 96px;
+  /* or 120% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+
+.sec_sec_2li {
+  font-family: "Jost", normal;
+  margin-top: 19px;
+  /* The world needs innovators and problem solvers who turn */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+
+.sec_sec_3li {
+  margin-top: 35px;
+  color: white;
+  background-color: #292f36;
+  display: block;
+  width: 207px;
+  height: 71px;
+  padding-left: 34px;
+  padding-right: 34px;
+  padding-top: 22px;
+  padding-bottom: 22px;
+  background-repeat: no-repeat;
+}
+
+.arrow {
+  padding-left: 21px;
+  padding-top: 17px;
+  padding-bottom: 18px;
+  padding-right: 20px;
+}
