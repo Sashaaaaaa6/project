@@ -40,6 +40,7 @@
   width: 479px;
   color: #292f36;
   margin: 0 auto;
+  margin-bottom: 30px;
 }
 .section1-h1 {
   text-align: center;
@@ -170,6 +171,7 @@
   flex-wrap: wrap;
   width: 100%;
   justify-content: center;
+  margin-bottom: 60px;
 }
 .section6-li {
   width: 387px;
