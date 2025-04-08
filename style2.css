@@ -109,6 +109,7 @@
   padding-top: 22px;
   padding-bottom: 22px;
   background-repeat: no-repeat;
+  position: relative;
 }
 
 .arrow {
@@ -116,4 +117,7 @@
   padding-top: 17px;
   padding-bottom: 18px;
   padding-right: 20px;
+  position: absolute;
+  right: 10px;
+  top: 0px;
 }

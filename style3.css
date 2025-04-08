@@ -205,7 +205,7 @@ body {
   font-family: "DM Serif Display", serif;
 }
 
-.qwe {
+.qwer {
   display: flex;
 }
 
@@ -319,7 +319,7 @@ body {
 .qwe {
   /* Connect With us */
 
-  /* position: absolute; */
+  position: absolute;
   /* width: 140px;
   height: 27px;
   left: calc(50% - 140px / 2 - 16.5px);
